@@ -49,6 +49,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>github-jenkins-docker-integration</finalName>
 	</build>
 
 </project>
